@@ -1,5 +1,6 @@
 # InstagramFollowUnfollow
-A tool that peridoically follows and unfollows people based on a liked post on the explore page
+A tool that allows accounts to find different accounts with similar interests
+
 Uses headless selenium to access the instagram page
 
 Add you credentials and home page in the main.py file
